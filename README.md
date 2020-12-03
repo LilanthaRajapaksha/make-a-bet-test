@@ -18,3 +18,7 @@ Bet Creation API
 * Run "composer check-style" command to checking.
 * Run "composer fix-style" command to fixing.
 
+###Run Tests
+* Run "php artisan test" command to checking.
+
+
